@@ -1,7 +1,6 @@
-<img src='https://github.com/rladngus133/rladngus133/assets/124851297/db580af5-fb19-481e-b5d5-290db19b0f5b' width='250px'/> 
-  <p>Hi! My name is Woohyun-kim <br/>
+<p>Hi! My name is Woohyun-kim <br/>
     Front-end Developer🧑‍💻</p> 
-</div>
+
 
 
 <div>
