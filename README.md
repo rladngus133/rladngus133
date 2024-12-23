@@ -1,8 +1,3 @@
-<p>Hi! My name is Woohyun-kim <br/>
-    Front-end Developer🧑‍💻</p> 
-
-
-
 <div>
   <h2>Resume</h2>
   <a href="https://rladngus133.github.io/resume/"><img src="https://img.shields.io/badge/resume-1EBC8F?style=for-the-badge&logo=headspace&logoColor=white" /></a>
